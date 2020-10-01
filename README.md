@@ -4,7 +4,7 @@
 
 ### 1. Customer Authentication
 
-**Sign up** `http://localhost:6969/api/auth/customer/signup`
+#### Sign up `http://localhost:6969/api/auth/customer/signup`
 
 **Request**
 
