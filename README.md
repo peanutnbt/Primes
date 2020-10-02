@@ -40,4 +40,4 @@
 ## Golang (All code in vinid-golang folder)
 ### Open cmd and go to vinid-golang folder
 ### Install golang by follow direction in https://golang.org/dl/
-### Run program with go run main.go
+### Run program with ```go run main.go```
