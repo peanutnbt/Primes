@@ -18,6 +18,7 @@
 **Request**
 - param num is a number greater than or equal to 2
 - session (have granted before)
+
 **Response**
 - 500 Server error
 - 401 Unauthentication
