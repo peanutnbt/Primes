@@ -42,3 +42,9 @@
 ### Open cmd and go to vinid-golang folder
 ### Install golang by follow direction in https://golang.org/dl/
 ### Run program with ```go run main.go```
+
+# # Deployment guide
+### Open cmd and go to vinid folder and follow these step
+### ```git init``` ```git add .```  ```git commit -m``` ```"first deploy"```
+### Create heroku remote ```heroku create primes-mulapese``` ```git remote -v``` ```heroku git:remote -a primes-mulapese```
+### Deploying code ```git push heroku master```
